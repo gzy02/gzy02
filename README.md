@@ -1,5 +1,5 @@
 <!--
-**watermellye/watermellye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gzy02/gzy02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=watermellye&show_icons=true&include_all_commits=true" />
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gzy02&show_icons=true&include_all_commits=true" />
