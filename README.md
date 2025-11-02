@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi 👋
 
-I'm a master's student at the University of Sciences and Technology of China, having previously completed my undergraduate studies at Tongji University. Currently, I'm an intern at Tencent WeChat, where I'm engaged in research and development in the exciting fields of Large Language Models (LLM) and Retrieval-Augmented Generation (RAG).
+I'm a master's student at the University of Science and Technology of China, having previously completed my undergraduate studies at Tongji University. Currently, I'm an intern at Tencent WeChat, where I'm engaged in research and development in the exciting fields of Large Language Models (LLM) and Retrieval-Augmented Generation (RAG).
 
 My research interests lie in the area of GraphRAG, and I have authored three publications in the this domain. You can find more details about my work on my [Google Scholar](https://scholar.google.com/citations?user=dwK9KT4AAAAJ&hl=en) and [DBLP](https://dblp.org/pid/387/0715.html) profiles.
 
