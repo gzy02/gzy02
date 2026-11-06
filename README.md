@@ -12,11 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi 👋
+### Hi there 👋
 
-I'm a master's student at the University of Science and Technology of China, having previously completed my undergraduate studies at Tongji University. Currently, I'm an intern at Tencent, where I'm engaged in research and development in the exciting fields of Large Language Models (LLM) and Retrieval-Augmented Generation (RAG).
+I'm a **Machine Learning Engineer at Kuaishou**, focusing on LLM post-training, reinforcement learning, and Agentic AI, with an emphasis on improving reasoning, planning, tool use, and multi-turn interaction capabilities.
 
-My research interests lie in the area of GraphRAG, and I have authored three publications in the this domain. You can find more details about my work on my [Google Scholar](https://scholar.google.com/citations?user=dwK9KT4AAAAJ&hl=en) and [DBLP](https://dblp.org/pid/387/0715.html) profiles.
+I received my Master's degree from the **University of Science and Technology of China (USTC)** and my Bachelor's degree from **Tongji University**. Previously, I worked as an LLM Research Intern at **Tencent**.
 
-I'm passionate about building innovative solutions and contributing to the open-source community. Feel free to explore my repositories and connect with me!
+My research interests include **LLM Post-training, Reinforcement Learning, Agentic AI, and Retrieval-Augmented Generation (RAG)**. I have also published three papers on GraphRAG.
 
+You can find more about my research on [Google Scholar](https://scholar.google.com/citations?user=dwK9KT4AAAAJ&hl=en) and [DBLP](https://dblp.org/pid/387/0715.html).
+
+I'm always interested in exploring new ideas in LLMs and contributing to the open-source community. Feel free to connect!
